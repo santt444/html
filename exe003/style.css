@@ -1,0 +1,44 @@
+body{
+    background-color: #022e2e;
+}
+
+h1 {
+    color: #0F5959;
+    background-color: #042326;
+}
+h2{ 
+    color: #1D7373;
+    background-color: #042326;
+}
+h3{
+    color: #0F5959;
+    background-color:#042326;
+}
+h4{
+    color: #0F5959;
+    background-color: #042326;
+
+}
+h5{
+    color: #0F5959;
+    background-color: #042326;
+
+}
+h6{color: #0F5959;
+    background-color: #042326;}
+p{
+    color:#0F5959;
+    background-color: #042326;
+}
+a{
+    color: #598585;
+
+}
+ul{
+    color: aquamarine;
+
+}
+ol{
+    color: aquamarine;
+
+}
